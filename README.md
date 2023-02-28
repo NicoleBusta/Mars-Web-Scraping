@@ -1,4 +1,4 @@
-MARS - News and Weather 
+# MARS - News and Weather 
 
 <img src = "Images/maxresdefault.jpg">
 
@@ -18,6 +18,7 @@ The purpose of this project is to demonstrate web-scraping and data analysis ski
 ## Resources
 #### Data Sources: 
 <a href = "https://static.bc-edx.com/data/web/mars_news/index.html">  Mars News Site </a>
+<br>
 <a href = "https://static.bc-edx.com/data/web/mars_facts/temperature.html"> Mars Temperature Data Site </a>
 #### Software: 
 Python, Splinter, Beautiful Soup, Pandas, Matplotlib, Jupyter Notebook, VSCode
