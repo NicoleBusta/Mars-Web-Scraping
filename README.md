@@ -11,7 +11,7 @@ The purpose of this project is to demonstrate web-scraping and data analysis ski
 <ol> •	Strengthen core skills (collecting, organizing, storing, analyzing and visualizing data) </ol>
 
 ## Results
-<li><a href = "Data/articles_data.json"> Mars News Articles </a></li>
+'<li><a href = "Data/articles_data.json" target="_blank"> Mars News Articles </a></li><br>\n'
 <li><a href = "Data/mars_weather_data.csv"> Mars Weather Data </a></li>
 <br>
 
